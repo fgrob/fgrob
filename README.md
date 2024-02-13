@@ -51,7 +51,7 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
 </a>
 
 <a href="https://github.com/fgrob/scraping_dojo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo&theme=dark" />
 </a>
 
 
