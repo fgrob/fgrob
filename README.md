@@ -43,15 +43,15 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
 # :handbag: Proyectos:
 
 <a href="https://github.com/fgrob/innanet-demo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=innanet-demo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=innanet-demo&theme=github_dark" />
 </a>
 
 <a href="https://github.com/fgrob/auth-js-jwt-fullstack-example">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=auth-js-jwt-fullstack-example&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=auth-js-jwt-fullstack-example&theme=github_dark" />
 </a>
 
 <a href="https://github.com/fgrob/scraping_dojo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo&theme=github_dark" />
 </a>
 
 
