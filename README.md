@@ -1,6 +1,5 @@
 # 💫 About Me:
-Full Stack Developer proficient in JavaScript and Python. As a dedicated freelancer, I thrive on crafting innovative solutions that elevate businesses through streamlined internal processes.
-
+Full Stack Developer proficient in JavaScript and Python. Crafting innovative solutions to streamline business processes. Open to collaborations and growth opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fgrob) 
