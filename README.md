@@ -41,7 +41,7 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # :handbag: Proyectos:
-a
+
 <a href="https://github.com/fgrob/innanet-demo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=innanet-demo&theme=dark" />
 </a>
@@ -50,8 +50,6 @@ a
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=auth-js-jwt-fullstack-example&theme=dark" />
 </a>
 
-<a href="https://github.com/fgrob/scraping_dojo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo&theme=dark" />
-</a>
+
 
 
