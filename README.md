@@ -46,4 +46,6 @@ Full Stack Developer proficient in JavaScript and Python. As a dedicated freelan
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fgrob&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fgrob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<a href="https://github.com/fgrob/innanet-demo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=innanet-demo&theme=tokyonight" />
+</a>
