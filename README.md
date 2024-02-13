@@ -50,4 +50,8 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=auth-js-jwt-fullstack-example&theme=dark" />
 </a>
 
+<a href="https://github.com/fgrob/scraping_dojo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=fgrob/scraping_dojo&theme=dark" />
+</a>
+
 
