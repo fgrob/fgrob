@@ -42,6 +42,10 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
 
 # :handbag: Proyectos:
 
+<a href="https://github.com/fgrob/petrolanet-demo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=petrolanet-demo&theme=github_dark" />
+</a>
+
 <a href="https://github.com/fgrob/innanet-demo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=innanet-demo&theme=github_dark" />
 </a>
