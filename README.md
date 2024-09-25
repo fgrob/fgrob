@@ -30,7 +30,7 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# :handbag: Proyectos:
+# :handbag: Projects:
 
 <a href="https://github.com/fgrob/petrolanet-demo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=petrolanet-demo&theme=github_dark" />
