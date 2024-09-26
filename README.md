@@ -44,6 +44,10 @@ Full Stack Developer proficient in JavaScript and Python. Crafting innovative so
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=auth-js-jwt-fullstack-example&theme=github_dark" />
 </a>
 
+<a href="https://github.com/fgrob/cash-flow-simulator">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=cash-flow-simulator&theme=github_dark" />
+</a>
+
 <a href="https://github.com/fgrob/scraping_dojo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgrob&repo=scraping_dojo&theme=github_dark" />
 </a>
